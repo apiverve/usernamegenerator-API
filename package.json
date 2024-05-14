@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/usernamegenerator-API.git"
   },
   "keywords": [
-    "username generator"," username generator api"," username generator tool"," username generator software"," username generator service"," username generator library"," username generator sdk"," username generator code"," username generator script"," username generator program"," username generator application"," username generator app"," username generator utility"," username generator helper"," username generator helper tool"," username generator helper software"," username generator helper service"," username generator helper library"," username generator helper sdk"," username generator helper code"," username generator helper script"," username generator helper program"," username generator helper application"," username generator helper app"," username generator helper utility"," username generator helper"
+    "username generator","username generator api","username generator tool","username generator software","username generator service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
