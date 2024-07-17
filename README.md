@@ -74,16 +74,16 @@ api.execute(query, function (error, data) {
   "data": {
     "count": 10,
     "suggestions": [
-      "acetarysean",
-      "straitwaistcoatsean",
-      "seaneardrop",
-      "archaeansean",
-      "gasolenesean",
-      "agitativesean",
-      "gamestersean",
-      "leeringlysean",
-      "houyhnhnmsean",
-      "seancoequally"
+      "overcolorsean",
+      "congenialitysean",
+      "haematocrystallinsean",
+      "sean",
+      "epidemicallysean",
+      "scrimpingsean",
+      "seanflemish",
+      "fumifugistsean",
+      "adstringentsean",
+      "seanalhenna"
     ],
     "email": "sean@mail.com"
   }
