@@ -74,19 +74,20 @@ api.execute(query, function (error, data) {
   "data": {
     "count": 10,
     "suggestions": [
-      "overcolorsean",
-      "congenialitysean",
-      "haematocrystallinsean",
+      "seancleave",
       "sean",
-      "epidemicallysean",
-      "scrimpingsean",
-      "seanflemish",
-      "fumifugistsean",
-      "adstringentsean",
-      "seanalhenna"
+      "egomismsean",
+      "seanmausoleum",
+      "seanjewel",
+      "seanunregenerate",
+      "seanbrachyural",
+      "millenarismsean",
+      "seanyardstick",
+      "seanlachrymiform"
     ],
     "email": "sean@mail.com"
-  }
+  },
+  "code": 200
 }
 ```
 
